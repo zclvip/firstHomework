@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/23Pattern/23Pattern.iml" filepath="$PROJECT_DIR$/23Pattern/23Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NIO/NIO.iml" filepath="$PROJECT_DIR$/NIO/NIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NIOHomework-03/NIOHomework-03.iml" filepath="$PROJECT_DIR$/NIOHomework-03/NIOHomework-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NIOHomework02/NIOHomework02.iml" filepath="$PROJECT_DIR$/NIOHomework02/NIOHomework02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstHomework.iml" filepath="$PROJECT_DIR$/firstHomework.iml" />
+    </modules>
+  </component>
+</project>
